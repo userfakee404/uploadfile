@@ -1,0 +1,91 @@
+<html>
+ <head> 
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=0.65"> 
+  <meta name="image" content="https://d.top4top.io/p_2191nxmgv0.jpg"> 
+  <meta name="description" content="~Hacked by ~./r0m1fake3"> 
+  <meta name="og:image" content="https://d.top4top.io/p_2191nxmgv0.jpg"> 
+  <meta name="og:description" content="~Hacked by ~./r0m1fake3"> 
+  <meta name="theme-color" content="black"> 
+  <link rel="shotcut icon" href="https://d.top4top.io/p_2191nxmgv0.jpg"> 
+  <title>~Hacked by ~./r0m1fake3</title> 
+  <style type="text/css" media="all">
+
+    @import url("https://fonts.googleapis.com/css2?family=Kelly+Slab&display=swap");
+
+    body {
+
+      background-color: black;
+
+      color: white;
+
+      font-family: serif;
+
+      font-family: "Kelly Slab";
+
+    }
+
+    h1 {
+
+      font-weight: bold;
+
+      letter-spacing: 2px;
+
+    }
+
+    p{
+
+      font-size: 18px; 
+
+    }
+
+    img{
+
+      width: 500px;
+
+    }
+
+    audio {
+
+      opacity:0.50;
+
+      border-radius:0px;
+
+      border:0px #fff solid;
+
+    }
+
+    center {
+
+      width:100%;
+
+      top: 0;
+
+      left: 0;
+
+      right: 0;
+
+      bottom: 0;
+
+      height: 50%;
+
+      margin: auto;
+
+      position: absolute;
+
+    }
+
+    </style> 
+ </head> 
+ <body> 
+  <center> 
+   <img src="https://data.whicdn.com/images/294254454/original.gif" alt="~Hacked by ~./r0m1fake3"> 
+   <h2>~Hacked by ~./r0m1fake3</h2> 
+   <p><h4>there is a gap in your site, fix this immediately or it will get worse..! :)</h4></p> 
+   <p></p>
+   <h3>BANDUNG DEFACER.ID</h3>
+   <p><h5>Contact Me: <br></>bukanhaxor404@gmail.com</></h5></p> 
+   <audio controls="controls" autoplay="autoplay" src="https://k.top4top.io/m_2293wzxv30.mp3"> 
+  </center> 
+ </body>
+</html>
